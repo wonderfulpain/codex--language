@@ -1,0 +1,12 @@
+{
+  "name": "daily-english-preview",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite preview --host 127.0.0.1 --port 5173 --strictPort --outDir dist"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}
